@@ -27,11 +27,6 @@ class Homepage extends StatelessWidget {
                   color: Colors.white,
                   fontSize: 30,
                   fontWeight: FontWeight.bold),
-              // TextStyle(
-              //   color: Colors.white,
-              //   fontSize: 28,
-              //   fontWeight: FontWeight.bold,
-              // ),
             ),
             const Text(
               "Software Engineer",
