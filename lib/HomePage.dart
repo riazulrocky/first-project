@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class Homepage extends StatelessWidget {
@@ -16,7 +15,7 @@ class Homepage extends StatelessWidget {
             const CircleAvatar(
               radius: 100,
               backgroundImage:
-                  AssetImage("assets/images/Riazul Hasan Rocky.png"),
+              AssetImage("assets/images/Riazul Hasan Rocky.png"),
             ),
             const SizedBox(
               height: 20,
